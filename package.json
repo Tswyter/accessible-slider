@@ -1,0 +1,19 @@
+{
+  "name": "accessible-slider",
+  "version": "1.0.0",
+  "description": "an accessible and customizeable slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tswyter/accessible-slider.git"
+  },
+  "author": "Taylor Swyter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tswyter/accessible-slider/issues"
+  },
+  "homepage": "https://github.com/Tswyter/accessible-slider#readme"
+}
