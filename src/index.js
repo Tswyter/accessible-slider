@@ -1,4 +1,8 @@
+import './scss/styles.scss';
 import Slider from './slider';
 
-const slider = new Slider();
-slider.init();
+const sliders = [...document.getElementsByClassName('swyder')];
+
+sliders.forEach(slider => {
+  new Slider(slider);
+});
